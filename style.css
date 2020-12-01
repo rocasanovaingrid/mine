@@ -1,0 +1,19 @@
+body { 
+ background-color:#009966
+}
+h1{
+  color:white;
+  font-family:"folks-bold";
+  font-size:80px;
+}
+p {
+  color:#33ff99 
+}
+
+.destacado {
+  font-family:"Baloo";
+  font-style:Italic;
+  font-size:40px;
+  
+  color:ffff66
+}
